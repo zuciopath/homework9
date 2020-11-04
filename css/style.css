@@ -1,6 +1,6 @@
-header{
-    position: fixed;
-}
+/*::-webkit-scrollbar{
+    display: none;
+}*/
 .first-li{
 	display: inline-block;
     color: #FFFFFF;
@@ -61,9 +61,8 @@ header{
 }
 
 body{
-	max-width: 1279px;
-    height: 2180px;
     width: 100%;
+    overflow-x: hidden;
 }
 .mom{
     width: 1116px;
@@ -170,10 +169,7 @@ section{
 .img1 img {
     height: 261px;
 }
-header{
-    border-radius: 20px solid white;
-    background-color: white;
-}
+
 .banner-text{
  position: absolute;
  color: #F0F0F0;
