@@ -8,6 +8,17 @@ header{
     margin-left: 20px;
     text-decoration: none;
 }
+
+.first-li:before{
+     content:'';
+    display:inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: #6294A2;
+    border-radius: 50px;
+    margin:0 6px 0 0;
+}
+
 .second-li{
 	display: inline-block;
     color: white;
@@ -49,8 +60,9 @@ header{
 }
 
 body{
-	max-width: 1920px;
-	height: 2382px;
+	max-width: 1279px;
+    height: 2180px;
+    width: 100%;
 }
 .mom{
     width: 1116px;
@@ -66,6 +78,16 @@ body{
     color: #404040;
 }
 
+.name:before{
+     content:'';
+    display:inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: #6294A2;
+    border-radius: 50px;
+    margin:0 6px 0 0;
+}
+
 .name2{
       float: right;
       font-size: 12px;
@@ -79,6 +101,7 @@ body{
 
 section{
     padding:100px 0 0 ;
+        margin-left: 46px;
 }
 
 .nav a{
@@ -95,8 +118,33 @@ section{
 .p2{
     font-size: 30px;
     color: #404040;
-
 }
+
+.pp{
+    font-size: 15px;
+    color: #404040;
+    margin-top: 7px;
+    width: 281px;
+    height: 87px;
+        margin-left: 148px
+}
+
+.pp2{
+    margin-bottom:30px;
+        margin-left: 152px;
+}
+
+.pp2:before{
+     content:'';
+    display:inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: #6294A2;
+    border-radius: 50px;
+    margin:0 6px 0 0;
+}
+
+
 .p3{
     font-size: 20px;
      color: #404040;
@@ -163,14 +211,7 @@ header{
    font-size: 20px;
    margin-left: 148px;
 }
-.pp{
-    font-size: 15px;
-    color: #404040;
-    margin-top: 7px;
-    width: 281px;
-    height: 87px;
-        margin-left: 148px
-}
+
 .nature-3{
     float: right;
 }
@@ -271,10 +312,7 @@ header{
     color:#FCFCFC;
     margin-top: 10px;
 }
-.pp2{
-    margin-bottom:30px;
-        margin-left: 152px;
-}
+
 .padding{
     padding: 2px;
     font-size: 15px;
@@ -292,7 +330,7 @@ header{
     position: relative;
     float: right;
     color: #183C77;
-    margin-top: -606px;
+    margin-top: -523px;
 }
 
 .india-cont img{
@@ -346,9 +384,9 @@ header{
 }
 
 .container1 img{
-                  width: 377px;
+    width: 377px;
+    height: 156px;
     object-fit: cover;
-    
 }
 
 .container2{
@@ -376,7 +414,7 @@ header{
 .footer-cont{
     
    padding-top: 47px;
-    padding-left: 55px;
+    padding-left: 104px;
 
 }
 
@@ -436,9 +474,18 @@ header{
 .explord{
     font-size: 22px;
     margin-bottom: 25px;
-    width: 110px;
+    width: 118px;
 }
 
+.explord:before{
+    content:'';
+    display:inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: #6294A2;
+    border-radius: 50px;
+    margin:0 6px 0 0;
+}
 
 .a-tag{
     font-size: 15px;
