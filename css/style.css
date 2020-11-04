@@ -338,7 +338,7 @@ header{
 
 .india-cont img{
         width: 604px;
-    height: 477.61px;
+    height: 524.61px;
     object-fit: cover;
     margin-left: -117px;
 }
@@ -371,6 +371,7 @@ header{
 }
 
 .h11{
+    width: 350px;
     font-size: 20px;
     margin-bottom: 20px;
 }
