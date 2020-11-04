@@ -376,7 +376,7 @@ header{
     margin-bottom: 20px;
 }
 
-.h11:before{
+.h12:before{
       content:'';
     display:inline-block;
     width: 10px;
@@ -384,6 +384,12 @@ header{
     background-color: #6294A2;
     border-radius: 50px;
     margin:0 6px 0 0;
+}
+
+.h12{
+    font-size: 26px;
+    color: #404040;
+    margin-bottom: 20px;
 }
 
 .h22{
