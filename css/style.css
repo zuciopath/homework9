@@ -337,6 +337,7 @@ section{
     height: 524.61px;
     object-fit: cover;
     margin-left: -117px;
+    border-radius: 30px;
 }
 
 .child-cont{
@@ -424,6 +425,13 @@ section{
     margin-bottom: 25px;    
 }
 
+.pppp{
+    width: 52px;
+    color: #404040;
+    margin-left: 253px;
+    margin-top: 7px;
+}
+
 .footer-cont{
     
    padding-top: 47px;
@@ -455,6 +463,17 @@ section{
     margin-left: 218px;
 }
 
+.stick{
+     content: '';
+    width: 1px;
+    width: 1px;
+    height: 100px;
+    background-color: #6294A2;
+    margin: 0 6px 0 0;
+    margin-left: 100px;
+    margin-top: -98px;
+    opacity: 0.1;
+}
 .child-div2{
     margin-left: 50px;
 }
@@ -504,3 +523,4 @@ section{
     color: #404040;
     padding-top: 5px;
 }
+
