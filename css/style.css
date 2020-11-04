@@ -44,6 +44,7 @@ header{
 
 .nav{
 	max-width: 1118px;
+    width: 100%;
     margin: 38px auto;
 }
 
@@ -216,9 +217,9 @@ header{
     float: right;
 }
 .nature-2{
-    width: 605.52px;
+    max-width: 605.52px;
     height: 477.61px;
-    max-width: 100%
+    width: 100%
 }
 .container{
     width: 1318px;
@@ -228,8 +229,9 @@ header{
 }
 
 .footer{
-    width: 1280px;
+    max-width: 1280px;
     height: 234px;
+    width: 100%;
     background-color: #FCFCFC;
 }
 
@@ -251,7 +253,8 @@ header{
     background-color: #FFF;
 }
 .all-cont1{
-   max-width: 700px;
+   max-width: 700px
+   width:100%;
     background-color: #FCFCFC;
     float: left;
     margin: 55px 0 0 0;
@@ -360,14 +363,14 @@ header{
 }
 
 .container-big{
-    width: 1147px;
+    max-width: 1147px;
     height: 377px;
+    width: 100px;
     margin-left: 58px;
     background-color: #FCFCFC;
 }
 
 .h11{
-        width: 341px;
     font-size: 20px;
     margin-bottom: 20px;
 }
