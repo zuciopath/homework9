@@ -363,9 +363,9 @@ header{
 }
 
 .container-big{
-    max-width: 1147px;
-    height: 377px;
-    width: 100px;
+    max-width: 1226px;
+    height: 329px;
+    width: 100%;
     margin-left: 58px;
     background-color: #FCFCFC;
 }
