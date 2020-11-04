@@ -364,6 +364,8 @@ section{
     width: 100%;
     margin-left: 58px;
     background-color: #FCFCFC;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .h11{
@@ -406,21 +408,15 @@ section{
     object-fit: cover;
 }
 
-.container2{
-    display: inline-block;
-}
-
 .container2 img{
     width: 377px;
     height: 156px;
     object-fit: cover;
-    display: inline-block;
 }
 
 .container1{
     width: 385px;
     height: 473px;
-    display: inline-block;
 }
 
 .p{
@@ -433,6 +429,7 @@ section{
    padding-top: 47px;
     padding-left: 104px;
     display: flex;
+    flex-wrap: wrap;
 
 }
 
