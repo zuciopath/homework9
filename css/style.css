@@ -386,6 +386,7 @@ section{
     font-size: 26px;
     color: #404040;
     margin-bottom: 20px;
+    margin-left: 72px;
 }
 
 .h22{
@@ -431,6 +432,7 @@ section{
     
    padding-top: 47px;
     padding-left: 104px;
+    display: flex;
 
 }
 
@@ -445,7 +447,6 @@ section{
 .child-div{
     width: 376px;
     height: 82px;
-    display: inline-block;
 }
 
 .child-div p{
@@ -454,19 +455,16 @@ section{
         padding: 2px;
 }
 .child-div1{
-    display: inline-block;
     margin-left: 218px;
 }
 
 .child-div2{
-    display: inline-block;
     margin-left: 50px;
 }
 
 .child-div3{
     width: 145px;
     height: 126px;
-    display: inline-block;
 }
 
 .child-div4{
@@ -488,9 +486,10 @@ section{
 
 
 .explord{
-    font-size: 22px;
-    margin-bottom: 25px;
+        font-size: 22px;
+    margin-bottom: -25px;
     width: 118px;
+    margin-left: 100px;
 }
 
 .explord:before{
