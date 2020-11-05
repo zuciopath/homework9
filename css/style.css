@@ -237,7 +237,7 @@ section{
 .mother{
         width: 405px;
     height: 600px;
-    margin-top: 50px;
+    margin-top: -250px;
     background-color: #FCFCFC;
     margin-left: 167px;
     float: left;
